@@ -1,0 +1,1067 @@
+@media(max-width:1500px){
+    .color-section__text{
+        padding: 0 5% !important;
+    }
+    .color-section__text h4{
+        font-size: 30px !important;
+        line-height: 120% !important;
+        margin-bottom: 8% !important;
+    }
+    .color-section__text p{
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    .color-section .row{
+        --bs-gutter-x: 0 !important;
+    }
+}
+@media(max-width:1400px){
+    .book-service__quick{
+        padding: 0 !important;
+    }
+    .book-service .row{
+        --bs-gutter-x: 0;
+    }
+    .book-service__quick p:nth-child(1){
+        margin: 0;
+    }
+    .book-service__quick p:nth-child(2){
+        margin: 0;
+    }
+    .book-service__rating{
+        padding: 0 !important;
+    }
+    .expert-service__right img{
+        width: 100% !important;
+        height: 100% !important;
+    }
+    .team-section__inner{
+        grid-template-columns: 30% 30% 30% !important;
+        grid-gap: 2% !important;
+    }
+    .blog-inner__left img{
+        width: 100%;
+        height: 100%;
+    }
+    .blog .row{
+        --bs-gutter-x: 0;
+    }
+    .blog-inner__left h1{
+        left: 18% !important;
+        font-size: 50px !important;
+    }
+}
+@media(max-width:1300px){
+    .get-in-touch__text{
+        padding: 3% !important;
+    }
+
+}
+@media(max-width:1200px){
+    .book-service__quick{
+        left: 0 !important;
+    }
+    .offer-icon{
+        width: 100% !important;
+        grid-template-columns: 24% 24% 24% 24% !important;
+        gap: 1% !important;
+    }
+    .offer-icon__block{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        padding: 20% 0 !important;
+    }
+    .experience__inner{
+        justify-content: space-between !important;
+    }
+    .expert-service__right img{
+        padding-left: 0 !important;
+    }
+    .team-section__block img{
+        width: 100% ;
+    }
+    .team-section__text{
+        padding: 5% 0 !important;
+    }
+    .contact-address__block{
+        width: 80% !important;
+    }
+    .contact-address__right{
+        padding-left: 12px !important;
+    }
+    .map-img__inner{
+        width: 100% !important;
+    }
+    .sidebar__left-top-block{
+        width: 70% !important;
+        margin: 32px auto !important;
+    }
+}
+@media(max-width:1133px){
+    .car-serving__right{
+        width: 75% !important;
+        margin: 2px !important;
+    }
+    .get-in-touch__text h3{
+        font-size: 35px !important;
+        line-height: 130% !important;
+    }
+    .faq__accordion{
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+@media(max-width:1024px){
+    .book-service__rating{
+        right: 0 !important;
+        right: 6% !important;
+    }
+    .book-service__rating-number p{
+        font-size: 18px !important;
+        line-height: 15px !important;
+    }
+    .book-service__rating-number small{
+        font-size: 13px !important;
+    }
+    .book-service__rating-stars i{
+        font-size: 21px !important;
+    }
+    .clear-process__right-icon i{
+        font-size: 60px !important;
+        margin-right: 15px !important;
+    }
+    .clear-process__right-icon p{
+        font-size: 30px !important;
+    }
+    .get-in-touch__text{
+        left: 25% !important;
+    }
+    .offer-icon{
+        width: 100% !important;
+    }
+    .offer-icon__block{
+        padding: 20% 0 !important;
+    }
+    .get-in-touch__text h3{
+        margin-bottom: 2% !important;
+    }
+    .get-in-touch__text a{
+        font-size: 15px !important;
+        padding: 11px 27px !important;
+    }
+    .color-section__text h4{
+        font-size: 20px !important;
+    }
+    .color-section__text p{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .content__info img{
+        width: 100% !important;
+    }
+    .blog-inner__right-text small{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .blog-inner__right-text h4{
+        font-size: 30px !important;
+        line-height: 120% !important;
+        margin-bottom: 4% !important;
+    }
+    .blog-inner__right-text p{
+        font-size: 14px !important;
+        line-height: 140% !important;
+        margin-bottom: 8% !important;
+    }
+    .blog-inner__right-info{
+        margin-bottom: 7% !important;
+    }
+    .blog-inner__right-info a{
+        font-size: 10px !important;
+        padding: 10px 30px !important;
+    }
+    .blog-inner__right-info p{
+        font-size: 10px !important;
+        margin-bottom: 0 !important;
+    }
+    .contact-address__right{
+        padding-left: 12px !important;
+    }
+    .contact-address__btn button{
+        margin-top: 2% !important;
+    }
+    .auto-diagnostics__inner h1{
+        font-size: 45px !important;
+        line-height: 60px !important;
+    }
+    .sidebar__right img{
+        width: 100% !important;
+    }
+}
+@media(max-width:992px){
+    .brands__block{
+        padding: 20% 0 !important;
+        flex-direction: column;
+    }
+    .brands__block i{
+        margin-right: 0 !important;
+        margin-bottom: 6%;
+    }
+    .our-customers{
+        padding: 10% 0 !important;
+    }
+    .our-customers__top h3{
+        font-size: 40px !important;
+        margin-bottom: 6% !important;
+    }
+    .our-customers__block{
+        width: 37% !important;
+        padding: 2% !important;
+    }
+    .our-customers__info{
+        margin-bottom: 7% !important;
+    }
+    .our-customers__info img{
+        width: 23% !important;
+    }
+    .our-customers__block p{
+        font-size: 17px !important;
+        line-height: 30px !important;
+    }
+    .our-customers__block small{
+        font-size: 11px;
+    }
+    .footer-bottom{
+        padding: 5% 0 !important;
+    }
+    .footer-bottom__img{
+        width: 10% !important;
+        height: 50% !important;
+    }
+    .footer-bottom__info{
+        margin: 3% 0;
+    }
+    .book .row{
+        --bs-gutter-x: 0 !important;
+    }
+    .book__left{
+        width: 50% !important;
+    }
+    .book__left img{
+        width: 100% !important;
+        height: 100% !important;
+        object-fit: cover !important;
+    }
+    .book__right{
+        width: 50% !important;
+    }
+    .book__right-inner{
+        padding: 10% !important;
+    }
+    .feature-sections{
+        padding: 10% 0 !important;
+    }
+    .feature-sections__top h2{
+        font-size: 42px !important;
+        line-height: 60px !important;
+    }
+    .feature-section__middle{
+        gap: 6% !important;
+    }
+    .feature-section__middle-block{
+        padding: 5% 0 !important;
+    }
+    .feature-section__middle-block i{
+        font-size: 24px !important;
+        padding: 11px !important;
+        margin-bottom: 5% !important;
+    }
+    .feature-section__middle-block p{
+        font-size: 22px !important;
+    }
+    .feature-section__middle-block small{
+        font-size: 15px !important;
+        line-height: 150% !important;
+    }
+    .blog-four-section__left{
+        padding: 5% !important;
+    }
+    .blog-four-section__left small{
+        font-size: 14px !important;
+        margin: 5% 0 !important;
+    }
+    .blog-four-section__left h4{
+        font-size: 28px !important;
+        line-height: 110% !important;
+    }
+    .blog-four-section__right-info{
+        margin-left: 3% !important;
+    }
+    .blog-four-section__right-info p{
+        font-size: 26px !important;
+        line-height: 28px !important;
+    }
+    .blog-four-section__right-info small{
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+    .footer-bootom__copyright p{
+        margin-bottom: 0 !important;
+    }
+}
+@media(max-width:768px){
+    .book-service{
+        margin: 8% 0 !important;
+    }
+    .book-service__inner{
+        padding: 0 !important;
+    }
+    .book-service__inner h1{
+        font-size: 44px !important;
+        line-height: 44px !important;
+    }
+    .book-service__right img{
+        width: 100% !important;
+    }
+    .book-service__rating{
+        padding: 0 !important;
+    }
+    .book-service__rating-number{
+        margin-right: 12px;
+    }
+    .book-service__rating-stars i{
+        font-size: 15px !important;
+    }
+    .book-service__bottom i{
+        font-size: 25px !important;
+    }
+    .book-service__time p:nth-child(1){
+        font-size: 12px !important;
+        line-height: 18px !important;
+    }
+    .book-service__time p:nth-child(2){
+        font-size: 14px !important;
+    }
+    .book-service__rating{
+        right: 0 !important;
+    }
+    .car-serving{
+        padding: 9% 0 !important;
+    }
+    .car-serving__left h2{
+        font-size: 46px !important;
+        line-height: 60px !important;
+        margin-bottom: 40px !important;
+    }
+    .car-serving__block{
+        margin-bottom: 2% !important;
+    }
+    .car-serving__block i{
+        font-size: 40px !important;
+        margin-right: 10px !important;
+        height: 57px !important;
+        padding: 9px !important;
+    }
+    .car-serving__text h3{
+        font-size: 20px !important;
+        line-height: 20px !important;
+        margin-bottom: 8px !important;
+    }
+    .car-serving__text p{
+        font-size: 13px !important;
+        line-height: 20px !important;
+    }
+    .car-serving__right h3{
+        font-size: 39px !important;
+        line-height: 120% !important;
+    }
+    .car-serving__input{
+        padding: 8px !important;
+        font-size: 13px !important;
+    }
+    .car-serving__right-btn{
+        margin-top: 20px !important;
+        padding: 10px 20px !important;
+        font-size: 14px !important;
+    }
+    .clear-process{
+        margin: 6% 0 !important;
+    }
+    .clear-process__left h2{
+        font-size: 32px !important;
+        line-height: 60px !important;
+    }
+    .offer{
+        padding: 8% 0 !important;
+    }
+    .offer-top h2{
+        font-size: 42px !important;
+        line-height: 55px !important;
+        margin-bottom: 30px !important;
+    }
+    .offer-icon{
+        grid-template-columns: 24% 24% 24% 24% !important;
+        gap: 1% !important;
+    }
+    .offer-icon__block{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: space-evenly !important;
+        padding: 28% 0 !important;
+    }
+    .offer-icon__block i{
+        font-size: 30px !important;
+        margin-bottom: 5% !important;
+    }
+    .offer-icon__block-text{
+        font-size: 15px !important;
+        line-height: 25px !important;
+    }
+    .offer-top a{
+        font-size: 13px !important;
+    }
+    .car-serving__left a, i{
+        font-size: 13px !important;
+    }
+    .get-in-touch__text{
+        width: 60% !important;
+    }
+    .get-in-touch__text h3{
+        font-size: 28px !important;
+    }
+    .get-in-touch__text a{
+        font-size: 10px !important;
+        padding: 10px 21px !important;
+    }
+    .experience__block h2{
+        font-size: 42px !important;
+        line-height: 55px !important;
+    }
+    .experience__block p{
+        font-size: 20px !important;
+        line-height: 23px !important;
+    }
+    .brands__inner h3{
+        font-size: 35px !important;
+        margin-bottom: 3% !important;
+    }
+    .brands__block i{
+        font-size: 20px !important;
+    }
+    .our-customers__top h3{
+        font-size: 28px !important;
+    }
+    .our-customers__info img{
+        object-fit: contain;
+    }
+    .our-customers__block p{
+        font-size: 13px !important;
+        line-height: 19px !important;
+    }
+    .our-customers__block small{
+        font-size: 9px !important;
+    }
+    .faq__inner h3{
+        font-size: 36px !important;
+    }
+    .accordion-title{
+        font-size: 14px;
+    }
+    .accordion-body{
+        line-height: 115% !important;
+        padding: 5% !important;
+    }
+    .accordion-body small{
+        font-size: 10px !important;
+    }
+    .footer-top__left h3{
+        font-size: 30px !important;
+        margin-bottom: 30px !important;
+        padding-right: 0 !important;
+    }
+    .footer-top__right-text p{
+        font-size: 15px !important;
+    }
+    .footer-top__right-text h3{
+        font-size: 20px !important;
+        line-height: 25px !important;
+    }
+    .book__right-inner h1{
+        font-size: 45px !important;
+        line-height: 50px !important;
+        margin-bottom: 5px !important;
+    }
+    .book__right-inner p{
+        font-size: 12px !important;
+        font-weight: 400 !important;
+        line-height: 150% !important;
+        margin-bottom: 35px !important;
+    }
+    .book__right-inner a{
+        font-size: 10px !important;
+        padding: 11px 24px !important;
+    }
+    .expert-service__left-icon i{
+        font-size: 50px !important;
+    }
+    .expert-service__left-icon p{
+        top: 7px !important;
+        left: 14px !important;
+        font-size: 22px !important;
+    }
+    .expert-service__left-text{
+        width: 50% !important;
+    }
+    .expert-service__left-text p{
+        font-size: 28px !important;
+    }
+    .color-section__text h4{
+        font-size: 15px !important;
+    }
+    .color-section__text p{
+        font-size: 10px !important;
+        line-height: 15px !important;
+    }
+    .feature-section__middle-block i{
+        font-size: 20px !important;
+        margin-bottom: 0 !important;
+    }
+    .feature-section__middle-block p{
+        text-align: center;
+        line-height: 22px !important;
+    }
+    .feature-section__middle-block small{
+        font-size: 11px !important;
+        text-align: center;
+    }
+    .team-section__top h2{
+        font-size: 40px !important;
+        line-height: 60px !important;
+        margin-bottom: 5% !important;
+    }
+    .team-section__text p{
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+    .team-section__text small{
+        font-size: 8px !important;
+        line-height: 12px !important;
+    }
+    .footer-bootom__copyright p{
+        margin-bottom: 0 !important;
+    }
+    .new-car{
+        margin: 8% 0 !important;
+    }
+    .new-car__inner img{
+        width: 100% !important;
+    }
+    .new-car__info small{
+        font-size: 11px !important;
+    }
+    .new-car__info h3{
+        font-size: 33px !important;
+        line-height: 130% !important;
+        margin: 2% 0 !important;
+    }
+    .new-car__info p{
+        font-size: 14px !important;
+        margin-bottom: 7% !important;
+    }
+    .content{
+        margin: 6% 0 12% !important;
+    }
+    .content__info h3{
+        margin: 13% 0 6% !important;
+        font-size: 25px !important;
+        line-height: 32px !important;
+    }
+    .blog-inner__left h1{
+        font-size: 30px !important;
+    }
+    .blog-inner__right-text{
+        margin-right: 7% !important;
+    }
+    .blog-inner__right-text small{
+        font-size: 7px !important;
+    }
+    .blog-inner__right-text h4{
+        font-size: 24px !important;
+    }
+    .blog-inner__right-text p{
+        font-size: 10px !important;
+        line-height: 120% !important;
+    }
+    .blog-four-section__left img{
+        margin-bottom: 7% !important;
+    }
+    .blog-four-section__left small{
+        font-size: 11px !important;
+    }
+    .blog-four-section__left h4{
+        font-size: 20px !important;
+    }
+    .blog-four-section__right-block img{
+        width: 50% !important;
+    }
+    .blog-four-section__right-info p{
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    .blog-four-section__right-info small{
+        font-size: 10px !important;
+    }
+    .blog-four-section__block h5{
+        font-size: 25px !important;
+        line-height: 30px !important;
+        margin-bottom: 8% !important;
+    }
+    .blog-four-section__block p{
+        font-size: 13px !important;
+        line-height: 20px !important;
+    }
+    .blog-full-section{
+        margin: 11% 0 !important;
+    }
+    .blog-full-section__inner{
+        grid-gap: 3% 4% !important;
+    }
+    .our-experts__title h2{
+        font-size: 50px !important;
+        line-height: 45px !important;
+    }
+    .contact-address__right-block{
+        margin-bottom: 4% !important;
+    }
+    .contact-address__right-block small{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .contact-address__right-block p{
+        font-size: 20px !important;
+        line-height: 30px !important;
+    }
+    .auto-diagnostics__inner h1{
+        font-size: 50px !important;
+        line-height: 60px !important;
+    }
+    .auto-diagnostics__inner h1{
+        font-size: 40px !important;
+        line-height: 40px !important;
+    }
+    .sidebar{
+        margin: 8% 0 10% !important;
+    }
+    .sidebar__left-bottom{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sidebar__left-top-block i{
+        font-size: 30px !important;
+    }
+    .sidebar__left-top-block p{
+        font-size: 20px !important;
+        line-height: 30px !important;
+    }
+    .sidebar__left-bottom-block{
+        margin-bottom: 5% !important;
+    }
+    .sidebar__left-bottom-block i{
+        font-size: 24px !important;
+        margin-right: 3% !important;
+    }
+    .sidebar__left-bottom-text h2{
+        font-size: 21px !important;
+        line-height: 24px !important;
+    }
+    .sidebar__left-bottom-text p{
+        font-size: 13px !important;
+        line-height: 20px !important;
+    }
+    .sidebar__right h4{
+        font-size: 33px !important;
+        line-height: 110% !important;
+        margin: 6% 0 !important;
+    }
+    .sidebar__right-subtitle{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .sidebar__right-title{
+        font-size: 28px !important;
+        line-height: 28px !important;
+        margin: 6% 0 3% !important;
+    }
+}
+@media(max-width:595px){
+    .get-in-touch__text{
+        width: 50% !important;
+    }
+    .get-in-touch__text h3{
+        font-size: 20px !important;
+    }
+    .get-in-touch__text a{
+        padding: 6px 12px !important;
+    }
+    .footer-bottom__subtitle{
+        margin: 0 3% !important;
+    }
+    .footer-bottom-link{
+        padding: 0 !important;
+        font-size: 12px !important;
+    }
+    .footer-bootom__copyright p{
+        font-size: 13px !important;
+        margin-bottom: 0 !important;
+        line-height: 22px !important;
+    }
+    .book__right-inner h1{
+        font-size: 33px !important;
+    }
+    .book__right-inner p{
+        font-size: 10px !important;
+        margin-bottom: 18px !important;
+    }
+    .book__right-inner a{
+        font-size: 8px !important;
+        padding: 10px 15px !important;
+    }
+    .content__info h4{
+        font-size: 33px !important;
+        line-height: 130% !important;
+        margin-bottom: 5% !important;
+    }
+    .content__info p{
+        font-size: 14px !important;
+        line-height: 18px !important;
+        margin-bottom: 10% !important;
+    }
+    .content__info small{
+        font-size: 13px !important;
+        line-height: 18px !important;
+    }
+    .blog-inner__right-text p{
+        width: 60% !important;
+    }
+    .blog-inner__right-text h4{
+        font-size: 15px !important;
+    }
+    .our-experts__title{
+        width: 80% !important;
+    }
+}
+@media(max-width:475px){
+    .get-in-touch__text h3{
+        font-size: 15px !important;
+        margin-bottom: 5% !important;
+    }
+    .experience__block h2{
+        font-size: 30px !important;
+        line-height: 50px !important;
+    }
+    .experience__block p{
+        font-size: 15px !important;
+    }
+    .faq__inner h3{
+        font-size: 24px !important;
+        margin-bottom: 6% !important;
+    }
+    .accordion-title{
+        font-size: 12px !important;
+    }
+    .accordion-body{
+        font-size: 14px !important;
+        padding: 3% !important;
+    }
+    .footer-top__left h3{
+        font-size: 22px !important;
+    }
+    .footer-top__right-text p{
+        font-size: 11px !important;
+    }
+    .footer-top__right-text h3{
+        font-size: 16px !important;
+        line-height: 20px !important;
+    }
+    .color-section__text h4{
+        font-size: 13px !important;
+        line-height: 105% !important;
+        margin-bottom: 5% !important;
+    }
+    .color-section__text p{
+        font-size: 8px !important;
+    }
+    .blog-inner__left h1{
+        font-size: 20px !important;
+        line-height: 64px !important;
+    }
+    .blog-inner__right-text{
+        margin-left: 7% !important;
+    }
+    .blog-inner__right-text small{
+        font-size: 5px !important;
+    }
+    .blog-inner__right-text p{
+        font-size: 8px !important;
+    }
+    .blog-inner__right-info a{
+        font-size: 8px !important;
+        padding: 10px 20px !important;
+    }
+    .blog-four-section__block img{
+        margin-bottom: 10px !important;
+    }
+    .blog-four-section__block small{
+        font-size: 10px !important;
+        line-height: 20px !important;
+    }
+    .blog-four-section__block h5{
+        font-size: 18px !important;
+        line-height: 20px !important;
+    }
+    .blog-four-section__block p{
+        font-size: 10px !important;
+        line-height: 13px !important;
+    }
+    .contact-address__block input{
+        padding: 15px 0 15px 20px !important;
+    }
+    .contact-address__subtitle{
+        font-size: 12px !important;
+        line-height: 20px !important;
+    }
+    .contact-address__btn button{
+        padding: 12px 24px !important;
+        font-size: 12px !important;
+        line-height: 120% !important;
+    }
+    .contact-address__right-block small{
+        font-size: 10px !important;
+        line-height: 16px !important;
+    }
+    .contact-address__right-block p{
+        font-size: 15px !important;
+        line-height: 20px !important;
+    }
+    .sidebar__left-bottom{
+        width: 70% !important;
+        margin: 8% auto 0 !important;
+    }
+    .sidebar__left-bottom-block i{
+        font-size: 18px !important;
+    }
+    .sidebar__left-bottom-text h2{
+        font-size: 17px !important;
+    }
+    .sidebar__left-bottom-text p{
+        font-size: 11px !important;
+        line-height: 15px !important;
+    }
+}
+@media(max-width:425px){
+    .book-service__inner h1{
+        font-size: 32px !important;
+    }
+    .book-service__quick p:nth-child(1){
+        font-size: 20px !important;
+        line-height: 28px !important;
+        padding: 4px !important;
+        margin-right: 6px !important;
+    }
+    .book-service__quick p:nth-child(2){
+        font-size: 20px !important;
+    }
+    .car-serving{
+        padding: 5% 0 !important;
+    }
+    .car-serving__left h2{
+        font-size: 33px !important;
+    }
+    .car-serving__right h3{
+        font-size: 33px !important;
+    }
+    .clear-process__left h2{
+        font-size: 28px !important;
+        line-height: 45px !important;
+    }
+    .clear-process__left p{
+        font-size: 13px !important;
+        line-height: 22px !important;
+    }
+    .clear-process__left a{
+        padding: 16px 30px !important;
+    }
+    .clear-process__right-icon i{
+        font-size: 50px !important;
+    }
+    .clear-process__right-icon p{
+        padding-left: 10px !important;
+    }
+    .clear-process__right-text h2{
+        font-size: 28px !important;
+        line-height: 40px !important;
+    }
+    .clear-process__right-text p{
+        font-size: 15px !important;
+        line-height: 140% !important;
+    }
+    .offer-top h2{
+        font-size: 26px !important;
+        line-height: 40px !important;
+        margin-bottom: 15px !important;
+    }
+    .brands__block i{
+        font-size: 15px !important;
+    }
+    .brands__block p{
+        font-size: 12px !important;
+    }
+    .our-customers__top h3{
+        font-size: 17px !important;
+        width: 70% !important;
+    }
+    .our-customers__block p{
+        font-size: 10px !important;
+        line-height: 10px !important;
+    }
+    .footer-top__right-text p{
+        font-size: 9px !important;
+        margin-bottom: 0 !important;
+    }
+    .footer-top__right-text h3{
+        font-size: 13px !important;
+        line-height: 15px !important;
+    }
+    .expert-service__left-top h3{
+        font-size: 30px !important;
+    }
+    .expert-service__left-top p{
+        font-size: 18px !important;
+        line-height: 25px !important;
+        margin-bottom: 25px !important;
+    }
+    .expert-service__left-text p{
+        font-size: 20px !important;
+        line-height: 32px !important;
+    }
+    .expert-service__left-text small{
+        font-size: 14px !important;
+    }
+    .feature-section__middle-block p{
+        font-size: 15px !important;
+    }
+    .team-section__top h2{
+        font-size: 25px !important;
+        line-height: 40px !important;
+    }
+    .team-section__text p{
+        font-size: 11px !important;
+        line-height: 14px !important;
+        margin-bottom: 0 !important;
+    }
+    .team-section__text small{
+        font-size: 6px !important;
+        line-height: 10px !important;
+    }
+    .blog-inner__left h1{
+        top: 20% !important;
+    }
+    .blog-inner__right-text small{
+        font-size: 3px !important;
+    }
+    .blog-inner__right-text h4{
+        font-size: 10px !important;
+    }
+    .blog-inner__right-text p{
+        font-size: 6px !important;
+    }
+    .blog-inner__right-info a{
+        font-size: 5px !important;
+        padding: 2% 6% !important;
+    }
+    .blog-inner__right-text p{
+        font-size: 5px !important;
+        margin-left: 6% !important;
+    }
+    .our-experts__title{
+        width: 80% !important;
+    }
+    .our-experts__title h2{
+        font-size: 35px !important;
+        line-height: 35px !important;
+    }
+    .auto-diagnostics__inner h1{
+        font-size: 38px !important;
+        line-height: 43px !important;
+    }
+}
+@media(max-width:390px){
+    .get-in-touch__text{
+        width: 60% !important;
+    }
+    .footer-bottom__subtitle{
+        font-size: 0 2% !important;
+    }
+    .footer-bottom-link{
+        font-size: 10px !important;
+    }
+    .footer-bootom__copyright p{
+        font-size: 10px !important;
+    }
+    .book{
+        margin-top: 10% !important;
+    }
+    .book__right-inner h1{
+        font-size: 23px !important;
+    }
+    .book__right-inner p{
+        font-size: 7px !important;
+        line-height: 140% !important;
+    }
+    .book__right-inner a{
+        padding: 8px 10px !important;
+    }
+    .blog-four-section__left small{
+        line-height: 13px !important;
+        font-size: 9px !important;
+    }
+    .blog-four-section__left h4{
+        font-size: 15px !important;
+    }
+    .blog-four-section__left p{
+        font-size: 11px !important;
+        line-height: 21px !important;
+    }
+    .blog-four-section__right-block{
+        margin-bottom: 7% !important;
+    }
+    .blog-four-section__right-info p{
+        font-size: 12px !important;
+        line-height: 15px !important;
+    }
+    .blog-four-section__block small{
+        font-size: 7px !important;
+    }
+    .blog-four-section__block h5{
+        font-size: 14px !important;
+        line-height: 13px !important;
+    }
+    .blog-four-section__block p{
+        font-size: 8px !important;
+        line-height: 11px !important;
+    }
+    .contact-address__right-block small{
+        font-size: 9px !important;
+    }
+    .contact-address__right-block p{
+        font-size: 12px !important;
+        line-height: 12px !important;
+    }
+    .auto-diagnostics__inner h1{
+        font-size: 30px !important;
+        line-height: 25px !important;
+    }
+}
